@@ -171,10 +171,6 @@ Sprawdź plik `.env`:
 ```env
 DATABASE_URL="file:./dev.db"
 ```
-Wykonaj reset migrację
-```bash
-npx prisma migrate reset
-```
 
 Wykonaj migrację bazy danych:
 
