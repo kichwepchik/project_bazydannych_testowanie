@@ -146,8 +146,8 @@ Product 1 — N OrderItem
 # Klonowanie repozytorium
 
 ```bash
-git clone https://github.com/TWOJ_LOGIN/TWOJE_REPOZYTORIUM.git
-cd TWOJE_REPOZYTORIUM
+git clone https://github.com/kichwepchik/project_bazydannych_testowanie.git
+cd project_bazydannych_testowanie
 ```
 
 ---
