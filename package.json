@@ -1,0 +1,12 @@
+{
+  "name": "online-shop-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test:gui": "playwright test gui.spec.js --headed",
+    "test:api": "playwright test api.spec.js",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
